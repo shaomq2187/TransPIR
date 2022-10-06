@@ -47,6 +47,7 @@ The structure and the meaning of the  subfolders are shown below:
 ├── frog
 ├── squirrel </code>
 </pre> </details>
+The ground-truth models are available [here](https://cloud.tsinghua.edu.cn/f/0f589f9454514ab7b72a/?dl=1).
 
 ###  Pretrained Models
 
